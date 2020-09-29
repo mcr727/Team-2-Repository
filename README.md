@@ -1,25 +1,42 @@
 # Team-2-Repository
 Effect of Covid-19 on New York City Transportation
 
-Project : The effect of pandemic (Covid-19) on New York City Transportation (March 2020 to June 2020)
+Project :
 
-Team Members 
+The effect of pandemic (Covid-19) on New York City Transportation (March 2020 to June 2020)
+
+
+Team Members: 
+
 Michael Reichard
+
 Yeonjae Riyoon
+
 Joshua Sohan
+
 Anumala Thapa
+
 Aaron Gold
 
+
 Summary:
+
 Compare the transportation usage during March  2020 - June 2020 to the usage during March 2019 - June 2019. 
 	
 Datasets: 
+
 City health data
+
 Confirmed cases in the city
+
 Confirmed cases by region
+
 taxi data 
+
 Subway data
+
 citibike data
+
 
 Questions: 
 
@@ -35,6 +52,7 @@ Which borough had the most and the least usage of transportation during March 20
 
 
 Data Sources:
+
 (csv files for tripdata_2019/2020 and taxi_zone_lookup)
 https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
