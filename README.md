@@ -22,10 +22,15 @@ Subway data
 citibike data
 
 Questions: 
+
 What was the transportation usage between March 2019 to June 2019?
+
 What was the transportation usage between March 2020 to June 2020?
+
 What means of transportation was used the most and the least between March 2019 to June 2019?
+
 What means of transportation was used the most and the least between March 2020 to June 2020?
+
 Which borough had the most and the least usage of transportation during March 2020 to June 2020?
 
 
