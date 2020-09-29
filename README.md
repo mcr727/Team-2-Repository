@@ -2,7 +2,6 @@
 Effect of Covid-19 on New York City Transportation
 
 Project :
-
 The effect of pandemic (Covid-19) on New York City Transportation (March 2020 to June 2020)
 
 
@@ -22,6 +21,7 @@ Aaron Gold
 Summary:
 
 Compare the transportation usage during March  2020 - June 2020 to the usage during March 2019 - June 2019. 
+	
 	
 Datasets: 
 
