@@ -16,7 +16,6 @@ Joshua Sohan
 
 Anumala Thapa
 
-Aaron Gold
 
 
 Summary:
